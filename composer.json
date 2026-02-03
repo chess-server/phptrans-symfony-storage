@@ -9,13 +9,13 @@
         }
     ],
     "require": {
-        "php": "^7.2 || ^8.0",
-        "php-translation/common": "^3.0",
-        "symfony/translation": "^3.4 || ^4.2 || ^5.0 || ^6.0 || ^7.0"
+        "php": "^8.0",
+        "chess-server/phptrans-common": "^3.0",
+        "symfony/translation": "^3.4 || ^4.2 || ^5.0 || ^6.0 || ^7.0 || ^8.0 "
     },
     "require-dev": {
         "phpunit/phpunit": ">=8.5.20",
-        "symfony/framework-bundle": " ^3.4 || ^4.2 || ^5.0 || ^6.0 || ^7.0"
+        "symfony/framework-bundle": " ^3.4 || ^4.2 || ^5.0 || ^6.0 || ^7.0 || ^8.0 "
     },
     "autoload": {
         "psr-4": {
