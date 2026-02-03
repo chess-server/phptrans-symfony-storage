@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^7.2 || ^8.0",
         "chess-server/phptrans-common": "^3.0",
         "symfony/translation": "^3.4 || ^4.2 || ^5.0 || ^6.0 || ^7.0 || ^8.0 "
     },
